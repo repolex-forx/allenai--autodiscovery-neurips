@@ -1,0 +1,41 @@
+{
+  "manifest_version": "1.0",
+  "org": "allenai",
+  "repo": "autodiscovery-neurips",
+  "versions": [
+    {
+      "commit": "66aa2d513cafdb23bf38313ebef522ade93f8cd9",
+      "parsed_at": "2026-11-07T20:54:54.356578+00:00",
+      "filetree": "filetree/66aa2d513cafdb23bf38313ebef522ade93f8cd9.nq.gz",
+      "blobs": [
+        "blob/691c18ad9c250e28d2a81e4f919b7fde897597c7.nq.gz",
+        "blob/88c4bd3d963dd8ba01af177aecdac9ae505b3a49.nq.gz",
+        "blob/5c0cca51d5d977657529f64be692b7458265a916.nq.gz",
+        "blob/6e3ea052d62abe32c920c8ea9330189f062c6cac.nq.gz",
+        "blob/82114f2765a286bb2708155b43d9ddea90afec84.nq.gz",
+        "blob/c0dd7c783f4e9b3dcd2bff271f759c1efc0e1711.nq.gz",
+        "blob/7a3af978cb5d283693a528fe0a5627dfc3eb6a40.nq.gz",
+        "blob/940872282ab5399a3bdeb919b2f77b4d1d3e72b4.nq.gz",
+        "blob/824085e66f8ce3eb9365f7d978f16a07a7d1f235.nq.gz",
+        "blob/a04bf22ddc68e1519b01e0f798ce1ab673420245.nq.gz",
+        "blob/aae9e2ab4c21c68b951f527e61062a19b729f6f8.nq.gz",
+        "blob/3bbff48d0acfb66bd04860adfeb96a509bb71ec7.nq.gz",
+        "blob/180c80bfdb66feb563b22075ede39cff426c66d3.nq.gz",
+        "blob/12c0a09972b35c9a64b004521cf9193663e677ca.nq.gz",
+        "blob/266bccd22fc5295817783c5bc3093d0f61d3d997.nq.gz",
+        "blob/2725413ff6bea2992394aad73bc94a28e40fa10b.nq.gz",
+        "blob/da834fd5a35dc65ed0c26004e2f5f45e62fc88ef.nq.gz",
+        "blob/574948441c684fa56371b3bd44ffc2fe99a03c7b.nq.gz",
+        "blob/a225aefbeb25921ba7f8e292725c5345b5130cd8.nq.gz",
+        "blob/4305ce0010d4340ca2c5e904970117426932dee8.nq.gz",
+        "blob/bd89c7f75d0eae257266b8e30c87149cf5f67feb.nq.gz",
+        "blob/cfa03f561def59f74494c7d921d410258f544783.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
